@@ -1,0 +1,7 @@
+alpaca-py
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+pygame

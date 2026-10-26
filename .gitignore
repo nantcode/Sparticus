@@ -1,0 +1,21 @@
+# Never commit keys or personal trading data
+.env
+.env.*
+!.env.example
+*.log
+*journal*.csv
+orders*.txt
+orders*.csv
+reviews/
+lab_data/
+lab_results/
+sparticus.lock
+sparticus_killed.json
+backup_before_*/
+
+# Python clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
